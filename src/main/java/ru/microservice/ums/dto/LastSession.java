@@ -13,3 +13,4 @@ public class LastSession {
     int lastLoginTimeStamp;
     int lastLogoutTimeStamp;
 }
+
